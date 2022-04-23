@@ -6,4 +6,4 @@
 
 The purpose of the algorithm is image retargeting, which is the problem of displaying images without distortion on media of various sizes (cell phones, projection screens) using document standards, like HTML, that already support dynamic changes in page layout and text but not images.
 
-This repository contains a realisation of seam carving on Python and samples of rescaled images produced by the algorithm.
+This repository contains a realisation of seam carving on Python with samples of rescaled images produced by the algorithm.
